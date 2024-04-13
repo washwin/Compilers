@@ -1,0 +1,8 @@
+{
+    "cmake.configureOnOpen": false,
+    "files.associations": {
+        "functional": "c",
+        "ctype.h": "c",
+        "iostream": "cpp"
+    }
+}
